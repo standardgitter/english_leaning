@@ -1,0 +1,374 @@
+1
+00:00:06,824 --> 00:00:08,004
+For millennia /mɪˈlenɪə mɪˈlenɪəm  千禧年；一千年/,
+
+2
+00:00:08,004 --> 00:00:12,414
+the people of Britain had been using 
+bronze /brɒnz 青铜/ to make tools and jewelry /dʒu:əlri/,
+
+3
+00:00:12,414 --> 00:00:15,060
+and as a currency for trade.
+
+4
+00:00:15,060 --> 00:00:19,100
+But around 800 BCE, that began to change:
+
+5
+00:00:19,100 --> 00:00:25,120
+the value of bronze /brɒnz 青铜/ declined, causing 
+social upheaval /ʌpˈhiːvəl 突变，剧变；隆起/ and an economic crisis—
+
+6
+00:00:25,120 --> 00:00:28,766
+what we would call a recession /rɪˈsɛʃən/ today.
+
+7
+00:00:28,766 --> 00:00:30,646
+What causes recessions?
+
+8
+00:00:30,646 --> 00:00:35,066
+This question has long been the subject 
+of heated /ˈhiːtɪd 热烈的/ debate /dɪˈbeɪt/ among economists,
+
+9
+00:00:35,066 --> 00:00:36,546
+and for good reason.
+
+10
+00:00:36,546 --> 00:00:39,866
+A recession can be a mild /maɪld 温和的/ decline in 
+economic activity
+
+11
+00:00:39,866 --> 00:00:42,596
+in a single country that lasts months,
+
+12
+00:00:42,596 --> 00:00:47,406
+a long-lasting downturn with global 
+ramifications /ˌræmɪfɪˈkeɪʃən 分枝，分叉；衍生物；后果/ that last years,
+
+13
+00:00:47,406 --> 00:00:49,846
+or anything in between.
+
+14
+00:00:49,846 --> 00:00:51,376
+Complicating matters further,
+
+15
+00:00:51,376 --> 00:00:55,026
+there are countless /ˈkaʊntlɪs 无数的/ variables /ˈværiəbəl 变量/ that 
+contribute to an economy’s health,
+
+16
+00:00:55,026 --> 00:00:59,026
+making it difficult to pinpoint /ˈpɪnˌpɔɪnt 精确地找到/
+specific causes.
+
+17
+00:00:59,026 --> 00:01:01,666
+So it helps to start with the big picture:
+
+18
+00:01:01,666 --> 00:01:04,776
+recessions occur when there is a negative /ˈnɛɡətɪv 拒绝 否定 负数/
+disruption /dɪsˈrʌpʃən 中断 扰乱/
+
+19
+00:01:04,776 --> 00:01:07,636
+to the balance between supply and demand /dɪˈmɑːnd dɪˈmænd 美/.
+
+20
+00:01:07,636 --> 00:01:11,116
+There’s a mismatch between how many 
+goods people want to buy,
+
+21
+00:01:11,116 --> 00:01:14,256
+how many products and services producers 
+can offer,
+
+22
+00:01:14,256 --> 00:01:19,966
+and the price of the goods and services 
+sold, which prompts /prɒmpt 提示/ an economic decline.
+
+23
+00:01:19,966 --> 00:01:23,156
+An economy’s relationship between supply 
+and demand
+
+24
+00:01:23,156 --> 00:01:27,236
+is reflected in its inflation /ɪnˈfleɪʃən/ rates 
+and interest /ˈɪn.trɪst/ rates.
+
+25
+00:01:27,236 --> 00:01:31,686
+Inflation happens when goods and services 
+get more expensive.
+
+26
+00:01:31,686 --> 00:01:35,080
+Put another way, the value 
+of money decreases.
+
+27
+00:01:35,080 --> 00:01:38,950
+Still, inflation isn’t necessarily 
+a bad thing.
+
+28
+00:01:38,950 --> 00:01:43,570
+In fact, a low inflation rate is thought 
+to encourage economic activity.
+
+29
+00:01:43,570 --> 00:01:46,770
+But high inflation that isn’t accompanied 
+with high demand
+
+30
+00:01:46,770 --> 00:01:52,520
+can both cause problems for an economy 
+and eventually lead to a recession.
+
+31
+00:01:52,520 --> 00:01:54,020
+Interest rates, meanwhile,
+
+32
+00:01:54,020 --> 00:01:58,390
+reflect the cost of taking on debt for 
+individuals and companies.
+
+33
+00:01:58,390 --> 00:02:01,600
+The rate is typically an annual percentage
+of a loan
+
+34
+00:02:01,600 --> 00:02:05,720
+that borrowers pay to their creditors /ˈkredɪtə 债权人，贷方/
+until the loan is repaid.
+
+35
+00:02:05,720 --> 00:02:09,790
+Low interest rates mean that companies 
+can afford to borrow more money,
+
+36
+00:02:09,790 --> 00:02:12,490
+which they can use to invest 
+in more projects.
+
+37
+00:02:12,490 --> 00:02:17,290
+High interest rates, meanwhile, increase 
+costs for producers and consumers,
+
+38
+00:02:17,290 --> 00:02:19,565
+slowing economic activity.
+
+39
+00:02:19,565 --> 00:02:22,555
+Fluctuations /ˌflʌktjʊˈeɪʃən  波动，涨落，起伏/ in inflation and interest 
+rates
+
+40
+00:02:22,555 --> 00:02:25,385
+can give us insight into the health 
+of the economy,
+
+41
+00:02:25,385 --> 00:02:29,385
+but what causes these fluctuations /ˌflʌktjʊˈeɪʃən  波动，涨落，起伏/
+in the first place?
+
+42
+00:02:29,385 --> 00:02:33,605
+The most obvious /ˈɒbvɪəs/ causes are shocks 
+like natural disaster, war,
+
+43
+00:02:33,605 --> 00:02:35,717
+and geopolitical /ˌdʒiːəʊpəˈlɪtɪkəl 地缘政治学的/ factors.
+
+44
+00:02:35,717 --> 00:02:37,237
+An earthquake, for example,
+
+45
+00:02:37,237 --> 00:02:42,247
+can destroy the infrastructure needed to 
+produce important commodities /kəˈmɒdɪtɪ 商品；日用品/ such as oil.
+
+46
+00:02:42,247 --> 00:02:47,557
+That forces the supply side of the economy
+to charge more for products that use oil,
+
+47
+00:02:47,557 --> 00:02:51,935
+discouraging demand and potentially 
+prompting a recession.
+
+48
+00:02:51,935 --> 00:02:55,624
+But some recessions occur in times of 
+economic prosperity /prɒˈspɛrɪtɪ 兴旺，繁荣，昌盛/—
+
+49
+00:02:55,624 --> 00:02:59,044
+possibly even because 
+of economic prosperity.
+
+50
+00:02:59,044 --> 00:03:03,344
+Some economists believe that business 
+activity from a market’s expansion
+
+51
+00:03:03,344 --> 00:03:06,608
+can occasionally reach 
+an unsustainable level.
+
+52
+00:03:06,608 --> 00:03:10,548
+For example, corporations and consumers 
+may borrow more money
+
+53
+00:03:10,548 --> 00:03:14,828
+with the assumption that economic growth 
+will help them handle the added burden /ˈbɜːdən 负担；责任/.
+
+54
+00:03:14,828 --> 00:03:18,381
+But if the economy doesn’t grow as 
+quickly as expected,
+
+55
+00:03:18,381 --> 00:03:21,341
+they may end up with more debt 
+than they can manage.
+
+56
+00:03:21,341 --> 00:03:25,051
+To pay it off, they’ll have to redirect 
+funds from other activities,
+
+57
+00:03:25,051 --> 00:03:27,471
+reducing business activity.
+
+58
+00:03:27,471 --> 00:03:30,391
+Psychology can also contribute 
+to a recession.
+
+59
+00:03:30,391 --> 00:03:34,551
+Fear of a recession can become a 
+self-fulfilling prophecy /ˈprɒfɪsɪ  n. 预言，预言能力/
+
+60
+00:03:34,551 --> 00:03:38,550
+if it causes people to pull back investing
+and spending.
+
+61
+00:03:38,550 --> 00:03:41,850
+In response, producers might 
+cut operating costs
+
+62
+00:03:41,850 --> 00:03:44,930
+to help weather the expected 
+decline in demand.
+
+63
+00:03:44,930 --> 00:03:49,810
+That can lead to a vicious /ˈvɪʃəs 恶意的；恶毒的；堕落的/ cycle as cost 
+cuts eventually lower wages,
+
+64
+00:03:49,810 --> 00:03:52,800
+leading to even lower demand.
+
+65
+00:03:52,800 --> 00:03:57,610
+Even policy /ˈpɒləsi/ designed to help prevent 
+recessions can contribute.
+
+66
+00:03:57,610 --> 00:04:01,740
+When times are tough, governments and 
+central /ˈsɛntrəl/ banks may print money,
+
+67
+00:04:01,740 --> 00:04:05,500
+increase spending, and lower central bank
+interest rates.
+
+68
+00:04:05,500 --> 00:04:08,960
+Smaller lenders can in turn lower their 
+interest rates,
+
+69
+00:04:08,960 --> 00:04:12,470
+effectively making debt “cheaper” 
+to boost spending.
+
+70
+00:04:12,470 --> 00:04:16,620
+But these policies are not sustainable 
+and eventually need to be reversed
+
+71
+00:04:16,620 --> 00:04:18,822
+to prevent excessive /ɪkˈsɛsɪv adj. 过多的，过分的/ inflation.
+
+72
+00:04:18,822 --> 00:04:23,272
+That can cause a recession if people have 
+become too reliant /rɪˈlaɪənt 依赖的/ on cheap debt
+
+73
+00:04:23,272 --> 00:04:25,202
+and government stimulus /ˈstɪmjʊləs 刺激/.
+
+74
+00:04:25,202 --> 00:04:30,032
+The Bronze recession in Britain eventually
+ended when the adoption of iron
+
+75
+00:04:30,032 --> 00:04:33,256
+helped revolutionize farming 
+and food production.
+
+76
+00:04:33,256 --> 00:04:35,416
+Modern markets are more complex,
+
+77
+00:04:35,416 --> 00:04:39,166
+making today’s recessions far 
+more difficult to navigate /ˈnævɪˌɡeɪt/.
+
+78
+00:04:39,166 --> 00:04:43,486
+But each recession provides new data to 
+help anticipate /预料/ and respond
+
+79
+00:04:43,486 --> 00:04:46,504
+to future recessions more effectively.
+

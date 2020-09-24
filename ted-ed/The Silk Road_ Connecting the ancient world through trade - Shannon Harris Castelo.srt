@@ -1,0 +1,440 @@
+1
+00:00:06,704 --> 00:00:09,444
+A banker in London sends the latest stock info
+
+2
+00:00:09,444 --> 00:00:12,459
+to his colleagues /ˈkɒliːɡ/ in Hong Kong in less than a second.
+
+3
+00:00:12,459 --> 00:00:14,759
+With a single click, a customer in New York
+
+4
+00:00:14,759 --> 00:00:16,854
+orders electronics made in Beijing,
+
+5
+00:00:16,854 --> 00:00:19,082
+transported across the ocean within days
+
+6
+00:00:19,082 --> 00:00:21,603
+by cargo plane or container ship.
+
+7
+00:00:21,603 --> 00:00:23,650
+The speed and volume /ˈvɒljuːm 大量/ at which goods and information
+
+8
+00:00:23,650 --> 00:00:27,486
+move across the world today is unprecedented /ˈprɛsɪdənt 先例；惯例/ in history.
+
+9
+00:00:27,486 --> 00:00:30,581
+But global exchange itself is older than we think,
+
+10
+00:00:30,581 --> 00:00:34,170
+reaching back over 2,000 years along a 5,000 mile stretch /strɛtʃ 延伸/
+
+11
+00:00:34,170 --> 00:00:36,521
+known as the Silk Road.
+
+12
+00:00:36,521 --> 00:00:39,065
+The Silk Road wasn't actually a single road,
+
+13
+00:00:39,065 --> 00:00:41,134
+but a network of multiple /ˈmʌltɪpəl/ routes
+
+14
+00:00:41,134 --> 00:00:43,494
+that gradually /grædʒuəli 渐渐地/ emerged over centuries,
+
+15
+00:00:43,494 --> 00:00:45,934
+connecting to various settlements and to each other
+
+16
+00:00:45,934 --> 00:00:47,311
+thread by thread.
+
+17
+00:00:47,311 --> 00:00:51,045
+The first agricultural civilizations were isolated places
+
+18
+00:00:51,045 --> 00:00:52,615
+in fertile /ˈfɜːtaɪl 肥沃的/ river valleys /ˈvælɪ 山谷 溪谷/,
+
+19
+00:00:52,615 --> 00:00:54,905
+their travel impeded /ɪmˈpiːd  阻碍/ by surrounding geography /dʒɪˈɒɡrəfɪ/
+
+20
+00:00:54,905 --> 00:00:56,521
+and fear of the unknown.
+
+21
+00:00:56,521 --> 00:00:57,744
+But as they grew,
+
+22
+00:00:57,744 --> 00:01:00,541
+they found that the arid /ˈærɪd 干旱的/ deserts and steps on their borders
+
+23
+00:01:00,541 --> 00:01:02,868
+were inhabited /ɪnˈhæbɪt 栖息/, not by the demons /ˈdiːmən 恶魔/ of folklore /ˈfəʊkˌlɔː 民间传说/,
+
+24
+00:01:02,868 --> 00:01:05,233
+but nomadic /nəʊˈmædɪk 游牧的/ tribes /traɪb 部落/ on horseback.
+
+25
+00:01:05,233 --> 00:01:08,258
+The Scythians, who ranged from Hungary to Mongolia,
+
+26
+00:01:08,258 --> 00:01:10,121
+had come in contact with the civilizations of
+
+27
+00:01:10,121 --> 00:01:13,129
+Greece, Egypt, India and China.
+
+28
+00:01:13,129 --> 00:01:15,517
+These encounters were often less than peaceful.
+
+29
+00:01:15,517 --> 00:01:17,891
+But even through raids /reɪd 突袭；抢劫/ and warfare /ˈwɔːˌfɛə/,
+
+30
+00:01:17,891 --> 00:01:20,719
+as well as trade and protection of traveling merchants
+
+31
+00:01:20,719 --> 00:01:22,256
+in exchange for tariffs /tærif/,
+
+32
+00:01:22,256 --> 00:01:25,775
+the nomads /ˈnəʊmæd 游牧民/ began to spread goods, ideas and technologies
+
+33
+00:01:25,775 --> 00:01:28,576
+between cultures with no direct contact.
+
+34
+00:01:28,576 --> 00:01:31,591
+One of the most important strands /strænd 线,链/ of this growing web
+
+35
+00:01:31,591 --> 00:01:33,160
+was the Persian Royal Road,
+
+36
+00:01:33,160 --> 00:01:36,993
+completed by Darius the First in the 5th century BCE.
+
+37
+00:01:36,993 --> 00:01:41,399
+Stretching nearly 2,000 miles from the Tigris /ˈtaɪɡrɪs 底格里斯河/ River to the Aegean /iːˈdʒiːən 爱琴海/ Sea,
+
+38
+00:01:41,399 --> 00:01:43,937
+its regular relay /ˈriːleɪ  中继设备/ points allowed goods and messages
+
+39
+00:01:43,937 --> 00:01:48,251
+to travel at nearly 1/10 the time it would take a single traveler.
+
+40
+00:01:48,251 --> 00:01:50,965
+With Alexander /ˌælɪɡˈzɑːndə/ the Great's conquest /ˈkɒnkwest 征服/ of Persia,
+
+41
+00:01:50,965 --> 00:01:54,699
+and expansion into Central Asia through capturing cities like Samarkand,
+
+42
+00:01:54,699 --> 00:01:57,994
+and establishing new ones like Alexandria /ˌælɪɡˈzændrɪə/ Eschate,
+
+43
+00:01:57,994 --> 00:02:01,563
+the network of Greek, Egyptian /ɪˈdʒɪpʃən/, Persian and Indian culture and trade
+
+44
+00:02:01,563 --> 00:02:04,455
+extended farther east than ever before,
+
+45
+00:02:04,455 --> 00:02:07,978
+laying the foundations for a bridge between China and the West.
+
+46
+00:02:07,978 --> 00:02:11,029
+This was realized in the 2nd century BCE,
+
+47
+00:02:11,029 --> 00:02:13,306
+when an ambassador /æmˈbæsədə/ named Zhang Qian,
+
+48
+00:02:13,306 --> 00:02:15,517
+sent to negotiate with nomads /ˈnəʊmæd 游牧民/ in the West,
+
+49
+00:02:15,517 --> 00:02:17,605
+returned to the Han Emperor with tales /teɪl 传说/ of
+
+50
+00:02:17,605 --> 00:02:20,709
+sophisticated /səˈfɪstɪˌkeɪtɪd 老练的/ civilizations, prosperous /ˈprɒspərəs 繁荣的/ trade
+
+51
+00:02:20,709 --> 00:02:23,909
+and exotic /ɪɡˈzɒtɪk 异国的/ goods beyond the western borders.
+
+52
+00:02:23,909 --> 00:02:26,313
+Ambassadors /æmˈbæsədə/ and merchants were sent towards
+
+53
+00:02:26,313 --> 00:02:29,943
+Persia and India to trade silk and jade /dʒeɪd/ for horses and cotton,
+
+54
+00:02:29,943 --> 00:02:32,864
+along with armies to secure their passage /ˈpæsɪdʒ 通道/.
+
+55
+00:02:32,864 --> 00:02:35,358
+Eastern and western routes gradually linked together
+
+56
+00:02:35,358 --> 00:02:38,323
+into an integrated /ˈɪntɪˌɡreɪtɪd 整合的/ system spanning Eurasia /jʊəˈreɪʃə 欧亚大陆/,
+
+57
+00:02:38,323 --> 00:02:40,240
+enabling cultural and commercial exhange
+
+58
+00:02:40,240 --> 00:02:42,506
+farther than ever before.
+
+59
+00:02:42,506 --> 00:02:44,736
+Chinese goods made their way to Rome,
+
+60
+00:02:44,736 --> 00:02:48,281
+causing an outflow /ˈaʊtˌfləʊ 流出/ of gold that led to a ban on silk,
+
+61
+00:02:48,281 --> 00:02:51,430
+while Roman /ˈrəʊmən/ glassware was highly prized in China.
+
+62
+00:02:51,430 --> 00:02:53,892
+Military expeditions /ˌɛkspɪˈdɪʃən 远征.探险/ in Central Asia
+
+63
+00:02:53,892 --> 00:02:57,267
+also saw encounters between Chinese and Roman soldiers /ˈsəʊldʒə/.
+
+64
+00:02:57,267 --> 00:02:59,547
+Possibly even transmitting crossbow technology
+
+65
+00:02:59,547 --> 00:03:01,812
+to the Western world.
+
+66
+00:03:01,812 --> 00:03:04,187
+Demand for exotic /ɪɡˈzɒtɪk/ and foreign goods
+
+67
+00:03:04,187 --> 00:03:05,389
+and the profits they brought,
+
+68
+00:03:05,389 --> 00:03:07,699
+kept the strands /strænd 线/ of the Silk Road intact /ɪnˈtækt 完整无缺的/,
+
+69
+00:03:07,699 --> 00:03:09,989
+even as the Roman Empire disintegrated /dɪsˈɪntɪˌɡreɪt 分裂/
+
+70
+00:03:09,990 --> 00:03:13,258
+and Chinese dynasties rose and fell.
+
+71
+00:03:13,258 --> 00:03:16,151
+Even Mongolian hoards /hɔːd 贮藏/, known for pillage /ˈpɪlɪdʒ 掠夺/ and plunder /ˈplʌndə 抢劫/,
+
+72
+00:03:16,151 --> 00:03:19,588
+actively protected the trade routes, rather than disrupting them.
+
+73
+00:03:19,588 --> 00:03:22,642
+But along with commodities /kəˈmɒdɪtɪ 商品/, these routes also enabled
+
+74
+00:03:22,642 --> 00:03:27,087
+the movement of traditions, innovations, ideologies /ˌaɪdɪˈɒlədʒɪ 思想/ and languages.
+
+75
+00:03:27,087 --> 00:03:30,644
+Originating in India, Buddhism /ˈbʊdɪzəm 佛教/ migrated /maɪˈɡreɪt/ to China and Japan
+
+76
+00:03:30,644 --> 00:03:32,989
+to become the dominant religion there.
+
+77
+00:03:32,989 --> 00:03:36,278
+Islam /ˈɪzlɑːm/ spread from the Arabian /əˈreɪbɪən/ Peninsula /pɪˈnɪnsjʊlə/ into South Asia,
+
+78
+00:03:36,278 --> 00:03:37,888
+blending /blɛnd 混合/ with native beliefs
+
+79
+00:03:37,888 --> 00:03:40,704
+and leading to new faiths /feɪθ 信仰/, like Sikhism /ˈsiːkɪzəm 锡克教/.
+
+80
+00:03:40,704 --> 00:03:43,427
+And gunpowder made its way from China to the Middle East
+
+81
+00:03:43,427 --> 00:03:48,258
+forging /fɔːdʒ 锻造/ the futures of the Ottoman /ˈɒtəmən/, Safavid and Mughul Empires.
+
+82
+00:03:48,258 --> 00:03:51,214
+In a way, the Silk Road's success led to its own demise /dɪˈmaɪz 转让/
+
+83
+00:03:51,214 --> 00:03:54,272
+as new maritime /ˈmærɪˌtaɪm 海上的/ technologies, like the magnetic /mæɡˈnɛtɪk 有磁性的/ compass /ˈkʌmpəs 指南针/,
+
+84
+00:03:54,272 --> 00:03:57,990
+found their way to Europe, making long land routes obsolete /ˈɒbsəˌliːt 淘汰/.
+
+85
+00:03:57,990 --> 00:04:00,622
+Meanwhile, the collapse /kəˈlæps 倒塌/ of Mongol rule
+
+86
+00:04:00,622 --> 00:04:04,032
+was followed by China's withdrawal from international trade.
+
+87
+00:04:04,032 --> 00:04:06,851
+But even though the old routes and networks did not last,
+
+88
+00:04:06,851 --> 00:04:08,936
+they had changed the world forever
+
+89
+00:04:08,936 --> 00:04:10,848
+and there was no going back.
+
+90
+00:04:10,848 --> 00:04:13,023
+Europeans seeking new maritime /ˈmærɪˌtaɪm 海上的/ routes
+
+91
+00:04:13,023 --> 00:04:15,639
+to the riches they knew awaited in East Asia
+
+92
+00:04:15,639 --> 00:04:17,380
+led to the Age of Exploration /ˌɛkspləˈreɪʃən/
+
+93
+00:04:17,380 --> 00:04:20,487
+and expansion into Africa and the Americas.
+
+94
+00:04:20,488 --> 00:04:24,286
+Today, global interconnectedness shapes our lives like never before.
+
+95
+00:04:24,286 --> 00:04:27,557
+Canadian shoppers buy t-shirts made in Bangladesh /ˌbæŋɡləˈdeʃ 孟加拉国/,
+
+96
+00:04:27,557 --> 00:04:30,500
+Japanese audiences watch British television shows,
+
+97
+00:04:30,500 --> 00:04:34,436
+and Tunisians /tjuːˈnɪzɪən 突尼斯人/ use American software to launch a revolution.
+
+98
+00:04:34,436 --> 00:04:38,577
+The impact of globalization on culture and economy is indisputable /ˌɪndɪˈspjuːtəbəl 不容置疑的/.
+
+99
+00:04:38,577 --> 00:04:40,563
+But whatever its benefits and drawbacks /ˈdrɔːˌbæk 缺点/,
+
+100
+00:04:40,563 --> 00:04:43,246
+it is far from a new phenomenon.
+
+101
+00:04:43,246 --> 00:04:45,501
+And though the mountains, deserts and oceans
+
+102
+00:04:45,501 --> 00:04:46,688
+that once separated us
+
+103
+00:04:46,688 --> 00:04:49,452
+are now circumvented /ˌsɜːkəmˈvɛnt 规避/ through super sonic vehicles,
+
+104
+00:04:49,452 --> 00:04:51,576
+cross-continental /ˌkɒntɪˈnentəl/ communication cables,
+
+105
+00:04:51,576 --> 00:04:53,789
+and signals beamed through space
+
+106
+00:04:53,789 --> 00:04:56,116
+rather than caravans /ˈkærəˌvæn 旅行商队/ traveling for months,
+
+107
+00:04:56,116 --> 00:04:57,863
+none of it would have been possible
+
+108
+00:04:57,863 --> 00:04:59,385
+without the pioneering cultures
+
+109
+00:04:59,385 --> 00:05:01,842
+whose efforts created the Silk Road:
+
+110
+00:05:01,842 --> 00:05:09,842
+history's first world wide web.
+

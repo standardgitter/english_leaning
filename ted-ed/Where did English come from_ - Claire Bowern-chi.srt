@@ -1,0 +1,370 @@
+1
+00:00:06,864 --> 00:00:10,657
+When we talk about English,
+we often think of it as a single language
+
+2
+00:00:10,657 --> 00:00:14,997
+but what do the dialects /ˈdaɪəˌlɛkt 方言；土语；地方话/ spoken
+in dozens of countries around the world
+
+3
+00:00:14,997 --> 00:00:17,050
+have in common with each other,
+
+4
+00:00:17,050 --> 00:00:18,980
+or with the writings of Chaucer?
+
+5
+00:00:18,980 --> 00:00:23,028
+And how are any of them related
+to the strange words in Beowulf?
+
+6
+00:00:23,028 --> 00:00:25,271
+The answer is that like most languages,
+
+7
+00:00:25,271 --> 00:00:28,326
+English has evolved  /ɪˈvɒlv 发展；进化/
+through generations of speakers,
+
+8
+00:00:28,326 --> 00:00:31,307
+undergoing major /ˈmeɪdʒə/ changes over time.
+
+9
+00:00:31,307 --> 00:00:33,340
+By undoing these changes,
+
+10
+00:00:33,340 --> 00:00:35,779
+we can trace the language 
+from the present /ˈprɛzənt/ day
+
+11
+00:00:35,779 --> 00:00:38,403
+back to its ancient /ˈeɪnʃənt/ roots.
+
+12
+00:00:38,403 --> 00:00:40,536
+While modern English 
+shares many similar words
+
+13
+00:00:40,536 --> 00:00:42,938
+with /ˈlætɪn/ Latin-derived /dɪˈraɪvd 衍生的/ romance /rəuˈmæns/ languages,
+
+14
+00:00:42,938 --> 00:00:44,582
+like French and Spanish,
+
+15
+00:00:44,582 --> 00:00:47,723
+most of those words 
+were not originally part of it.
+
+16
+00:00:47,723 --> 00:00:50,271
+Instead, they started coming 
+into the language
+
+17
+00:00:50,271 --> 00:00:55,087
+with the Norman /ˈnɔːmən 诺曼第人/ invasion 
+of England in 1066.
+
+18
+00:00:55,087 --> 00:00:57,632
+When the French-speaking Normans
+conquered /ˈkɒŋkə/ England
+
+19
+00:00:57,632 --> 00:00:59,649
+and became its ruling class,
+
+20
+00:00:59,649 --> 00:01:01,793
+they brought their speech with them,
+
+21
+00:01:01,793 --> 00:01:05,266
+adding a massive /ˈmæsɪv 大规模的/ amount 
+of French and Latin vocabulary
+
+22
+00:01:05,266 --> 00:01:08,286
+to the English language 
+previously /ˈpriːvɪəslɪ 先前地/ spoken there.
+
+23
+00:01:08,286 --> 00:01:11,049
+Today, we call that language Old English.
+
+24
+00:01:11,049 --> 00:01:13,495
+This is the language of Beowulf.
+
+25
+00:01:13,495 --> 00:01:15,609
+It probably doesn't look very familiar,
+
+26
+00:01:15,609 --> 00:01:19,915
+but it might be more recognizable
+if you know some German.
+
+27
+00:01:19,915 --> 00:01:23,807
+That's because Old English
+belongs to the Germanic language family,
+
+28
+00:01:23,807 --> 00:01:27,595
+first brought to the British Isles /aɪl 岛/
+in the 5th and 6th centuries
+
+29
+00:01:27,595 --> 00:01:31,179
+by the Angles, Saxons, and Jutes.
+
+30
+00:01:31,179 --> 00:01:35,901
+The Germanic dialects they spoke would
+become known as Anglo-Saxon.
+
+31
+00:01:35,901 --> 00:01:38,931
+Viking /ˈvaɪkɪŋ/ invaders in the 8th 
+to 11th centuries
+
+32
+00:01:38,931 --> 00:01:42,943
+added more borrowings 
+from Old Norse into the mix.
+
+33
+00:01:42,943 --> 00:01:45,771
+It may be hard to see the roots
+of modern English
+
+34
+00:01:45,771 --> 00:01:47,634
+underneath all the words borrowed
+
+35
+00:01:47,634 --> 00:01:51,738
+from French, Latin, Old Norse 
+and other languages.
+
+36
+00:01:51,738 --> 00:01:56,904
+But comparative /kəmˈpærətɪv 比较的/ linguistics /lɪŋˈɡwɪstɪks 语言学/ can help us
+by focusing on grammatical /ɡrəˈmætɪkəl 语法的/ structure,
+
+37
+00:01:56,904 --> 00:01:58,733
+patterns of sound changes,
+
+38
+00:01:58,733 --> 00:02:01,175
+and certain core vocabulary.
+
+39
+00:02:01,175 --> 00:02:03,682
+For example, after the 6th century,
+
+40
+00:02:03,682 --> 00:02:09,011
+German words starting with "p,"
+systematically /ˌsɪstəˈmætɪklɪ 系统地，有计划地/ shifted to a "pf" sound
+
+41
+00:02:09,011 --> 00:02:13,109
+while their Old English counterparts
+kept the "p" unchanged.
+
+42
+00:02:13,109 --> 00:02:16,977
+In another split, words 
+that have "sk" sounds in Swedish /ˈswiːdɪʃ 瑞典语/
+
+43
+00:02:16,977 --> 00:02:20,394
+developed an "sh" sound in English.
+
+44
+00:02:20,394 --> 00:02:23,236
+There are still some English 
+words with "sk,"
+
+45
+00:02:23,236 --> 00:02:25,257
+like "skirt," and "skull,"  /skʌl 头骨/
+
+46
+00:02:25,257 --> 00:02:27,988
+but they're direct borrowings 
+from Old Norse
+
+47
+00:02:27,988 --> 00:02:31,781
+that came after the "sk" to "sh" shift.
+
+48
+00:02:31,781 --> 00:02:33,710
+These examples show us
+
+49
+00:02:33,710 --> 00:02:37,628
+that just as the various Romance languages
+descended /dɪˈsendɪd 的后裔/ from Latin,
+
+50
+00:02:37,628 --> 00:02:41,603
+English, Swedish, German, 
+and many other languages
+
+51
+00:02:41,603 --> 00:02:46,006
+descended from their own common ancestor /ˈænsɛstə 祖先/
+known as Proto-Germanic
+
+52
+00:02:46,006 --> 00:02:48,854
+spoken around 500 B.C.E.
+
+53
+00:02:48,854 --> 00:02:52,301
+Because this historical language
+was never written down,
+
+54
+00:02:52,301 --> 00:02:56,184
+we can only reconstruct it 
+by comparing its descendants,
+
+55
+00:02:56,184 --> 00:02:59,302
+which is possible thanks 
+to the consistency /kənˈsɪstənsɪ 连贯性/ of the changes.
+
+56
+00:02:59,302 --> 00:03:03,671
+We can even use the same process
+to go back one step further,
+
+57
+00:03:03,671 --> 00:03:09,741
+and trace the origins of Proto-Germanic
+to a language called Proto-Indo-European,
+
+58
+00:03:09,741 --> 00:03:11,922
+spoken about 6000 years ago
+
+59
+00:03:11,922 --> 00:03:16,512
+on the Pontic steppe  /step 西伯利亚一带没有树木的大草原/
+in modern day Ukraine /juːˈkreɪn/ and Russia.
+
+60
+00:03:16,512 --> 00:03:20,843
+This is the reconstructed ancestor /ˈænsɛstə 祖先/
+of the Indo-European family
+
+61
+00:03:20,843 --> 00:03:25,371
+that includes nearly all languages
+historically spoken in Europe,
+
+62
+00:03:25,371 --> 00:03:28,711
+as well as large parts of Southern
+and Western Asia.
+
+63
+00:03:28,711 --> 00:03:31,453
+And though it requires a bit more work,
+
+64
+00:03:31,453 --> 00:03:35,890
+we can find the same systematic 
+similarities /ˌsɪmɪˈlærɪtɪ 相似之处/, or correspondences /ˌkɒrɪˈspɒndəns 信函 一致/,
+
+65
+00:03:35,890 --> 00:03:39,864
+between related words in different
+Indo-European branches.
+
+66
+00:03:39,864 --> 00:03:42,085
+Comparing English with Latin,
+
+67
+00:03:42,085 --> 00:03:45,690
+we see that English has "t" 
+where Latin has "d",
+
+68
+00:03:45,690 --> 00:03:49,728
+and "f" where latin has "p"
+at the start of words.
+
+69
+00:03:49,728 --> 00:03:53,681
+Some of English's more distant relatives
+include Hindi, Persian /ˈpɜːʃən 波斯人/
+
+70
+00:03:53,681 --> 00:03:58,109
+and the Celtic languages it displaced /dɪsˈpleɪs 替换/
+in what is now Britain.
+
+71
+00:03:58,109 --> 00:04:02,769
+Proto-Indo-European itself descended
+from an even more ancient /ˈeɪnʃənt/ language,
+
+72
+00:04:02,769 --> 00:04:07,908
+but unfortunately, this is as far back
+as historical /hɪˈstɒrɪkəl/ and archeological /ˌɑːkɪəˈlɒdʒɪkəl 考古学的/ evidence
+
+73
+00:04:07,908 --> 00:04:10,088
+will allow us to go.
+
+74
+00:04:10,088 --> 00:04:12,280
+Many mysteries /ˈmɪstərɪ 神秘/ remain just out of reach,
+
+75
+00:04:12,280 --> 00:04:15,658
+such as whether there might be a link
+between Indo-European
+
+76
+00:04:15,658 --> 00:04:17,841
+and other major language families,
+
+77
+00:04:17,841 --> 00:04:22,522
+and the nature of the languages spoken
+in Europe prior /ˈpraɪə 优先的/ to its arrival.
+
+78
+00:04:22,522 --> 00:04:27,418
+But the amazing fact remains that nearly
+3 billion people around the world,
+
+79
+00:04:27,418 --> 00:04:29,980
+many of whom cannot understand each other,
+
+80
+00:04:29,980 --> 00:00:00,000
+are nevertheless /ˌnɛvəðəˈlɛs 然而/ speaking the same words
+shaped by 6000 years of history.
+

@@ -1,0 +1,352 @@
+1
+00:00:06,605 --> 00:00:09,043
+In the summer of 1976,
+
+2
+00:00:09,043 --> 00:00:13,996
+a mysterious /mɪˈstɪərɪəs  神秘的/ epidemic /ˌɛpɪˈdɛmɪk 流行病/
+suddenly struck /strʌk strike/ two central African towns,
+
+3
+00:00:13,996 --> 00:00:16,652
+killing the majority of its victims.
+
+4
+00:00:16,652 --> 00:00:18,391
+Medical researchers suspected
+
+5
+00:00:18,391 --> 00:00:21,829
+the deadly Marburg virus 
+to be the culprit /ˈkʌlprɪt 罪犯/.
+
+6
+00:00:21,829 --> 00:00:26,667
+But what they saw in microscope /ˈmaɪkrəˌskəʊp/ images
+was an entirely new pathogen /ˈpæθəˌdʒɛn 病原体/,
+
+7
+00:00:26,667 --> 00:00:31,323
+which would be named
+after the nearby Ebola /iːˈbəʊlə/ river.
+
+8
+00:00:31,323 --> 00:00:33,225
+Like yellow fever or dengue /ˈdɛŋɡɪ 登革热/,
+
+9
+00:00:33,225 --> 00:00:38,677
+the disease caused by the Ebola virus
+is a severe /sɪˈvɪə 严重的/ type of hemorrhagic /ˌheməˈrædʒɪk 出血性的/ fever.
+
+10
+00:00:38,677 --> 00:00:41,645
+It begins by attacking 
+the immune /ɪˈmjuːn 免除的/ system's cells
+
+11
+00:00:41,645 --> 00:00:44,012
+and neutralizing /nju:trəlaiziŋ 中和/ its responses,
+
+12
+00:00:44,012 --> 00:00:46,354
+allowing the virus to proliferate /prəˈlɪfəˌreɪt 激增/.
+
+13
+00:00:46,354 --> 00:00:49,889
+Starting anywhere from two to twenty days
+after contraction,
+
+14
+00:00:49,889 --> 00:00:52,260
+initial /ɪˈnɪʃəl/ symptoms like high temperature,
+
+15
+00:00:52,260 --> 00:00:53,451
+aching,
+
+16
+00:00:53,451 --> 00:00:54,640
+and sore /sɔː 溃疡/ throat /θrəʊt/
+
+17
+00:00:54,640 --> 00:00:57,109
+resemble /rɪˈzɛmbl 类似/ those of a typical flu,
+
+18
+00:00:57,109 --> 00:00:59,309
+but quickly escalate to vomiting /ˈvɒmɪt 呕吐/,
+
+19
+00:00:59,309 --> 00:01:00,551
+rashes /ræʃ 皮疹/,
+
+20
+00:01:00,551 --> 00:01:01,933
+and diarrhea /ˌdaɪəˈrɪə 腹泻/.
+
+21
+00:01:01,933 --> 00:01:03,432
+And as the virus spreads,
+
+22
+00:01:03,432 --> 00:01:05,947
+it invades the lymph /lɪmf 淋巴/ nodes 
+and vital /ˈvaɪtəl 至关重要/ organs,
+
+23
+00:01:05,947 --> 00:01:10,069
+such as kidneys /ˈkɪdnɪ 肾脏/ and liver,
+causing them to lose function.
+
+24
+00:01:10,069 --> 00:01:13,799
+But the virus itself 
+is not what kills Ebola victims.
+
+25
+00:01:13,799 --> 00:01:18,541
+Instead, the mounting /ˈmaʊntɪŋ 逐渐增加的/ cell deaths 
+trigger an immune system overload,
+
+26
+00:01:18,541 --> 00:01:21,006
+known as a cytokine /ˈsaɪtəʊˌkaɪn 细胞活素/ storm,
+
+27
+00:01:21,006 --> 00:01:24,930
+an explosion of immune responses
+that damages blood vessels /ˈvɛsəl 血管/,
+
+28
+00:01:24,930 --> 00:01:28,170
+causing both internal /ɪnˈtɜːnəl/ and external /ɛkˈstɜrnəl 外部/ bleeding.
+
+29
+00:01:28,170 --> 00:01:31,593
+The excessive /ɛkˈsɛsɪv 过多的/ fluid /ˈfluːɪd 液体/ loss 
+and resulting complications
+
+30
+00:01:31,593 --> 00:01:36,513
+can be fatal /ˈfeɪtəl 致命的/ within six to sixteen days
+of the first symptoms,
+
+31
+00:01:36,513 --> 00:01:39,172
+though proper /ˈprɒpə 适合的/ care and rehydration /ˌriːhaɪˈdreɪʃən （脱水后的）再次水化/ therapy
+
+32
+00:01:39,172 --> 00:01:43,156
+can significantly reduce 
+mortality /mɔːˈtælɪtɪ 必死性/ rates in patients.
+
+33
+00:01:43,156 --> 00:01:45,878
+Fortunately, 
+while Ebola is highly virulent /ˈvɪrjʊlənt 致命的/,
+
+34
+00:01:45,878 --> 00:01:48,866
+several factors limit its contagiousness /kənˈteɪdʒəsnɪs 传染性/.
+
+35
+00:01:48,866 --> 00:01:52,595
+Unlike viruses that proliferate /prəˈlɪfəˌreɪt 使激增/ through
+small, airborne /ˈɛəˌbɔːn 空运的 空气传播的/ particles /ˈpɑːtɪkəl 微粒/,
+
+36
+00:01:52,595 --> 00:01:55,573
+Ebola only exists in bodily fluids,
+
+37
+00:01:55,573 --> 00:01:56,659
+such as saliva /səˈlaɪvə 唾液/,
+
+38
+00:01:56,659 --> 00:01:57,369
+blood,
+
+39
+00:01:57,369 --> 00:01:58,173
+mucus /ˈmjuːkəs 鼻屎/,
+
+40
+00:01:58,173 --> 00:01:58,892
+vomit /ˈvɒmɪt 呕吐物/,
+
+41
+00:01:58,892 --> 00:01:59,984
+or feces /ˈfiːsiːz 排泄物/.
+
+42
+00:01:59,984 --> 00:02:01,261
+In order to spread,
+
+43
+00:02:01,261 --> 00:02:05,449
+these must be transmitted from 
+an infected /ɪnˈfektɪd 被感染的/ person into another's body
+
+44
+00:02:05,449 --> 00:02:09,273
+through passageways /ˈpæsɪdʒˌweɪ 通道/ such as the eyes,
+mouth, or nose.
+
+45
+00:02:09,273 --> 00:02:11,113
+And because the disease's severity /siˈverəti 严重/
+
+46
+00:02:11,113 --> 00:02:14,274
+increases directly along 
+with the viral /ˈvaɪrəl 病毒的/ load,
+
+47
+00:02:14,274 --> 00:02:17,196
+even an infected person 
+is unlikely to be contagious /kənˈteɪdʒəs 接触传染的/
+
+48
+00:02:17,196 --> 00:02:19,923
+until they have begun to show symptoms.
+
+49
+00:02:19,923 --> 00:02:23,641
+While Ebola has been shown 
+to survive on surfaces for several hours,
+
+50
+00:02:23,641 --> 00:02:27,912
+and transmission through sneezing /sniːzɪŋ 打喷嚏/
+or coughing /ˈkɒfɪŋ 咳嗽/ is theoretically /ˌθiːəˈretɪkəlɪ 理论上/ possible,
+
+51
+00:02:27,912 --> 00:02:32,272
+virtually /ˈvɜːtʃʊəlɪ 事实上/ all known cases of contraction
+have been through direct contact
+
+52
+00:02:32,272 --> 00:02:34,553
+with the severely /sɪˈvɪəlɪ 严格地/ ill,
+
+53
+00:02:34,553 --> 00:02:37,204
+with the greatest risk 
+posed to medical workers
+
+54
+00:02:37,204 --> 00:02:40,095
+and friends or relatives of the victims.
+
+55
+00:02:40,095 --> 00:02:42,539
+This is why,
+despite its horrifying /ˈhɒrɪˌfaɪɪŋ 令人恐惧的/ effects,
+
+56
+00:02:42,539 --> 00:02:47,155
+Ebola has been far less deadly overall
+than more common infections,
+
+57
+00:02:47,155 --> 00:02:48,295
+such as measles /ˈmiːzəlz 麻疹/,
+
+58
+00:02:48,295 --> 00:02:49,118
+malaria /məˈlɛərɪə 疟疾/,
+
+59
+00:02:49,118 --> 00:02:50,811
+or even influenza /ˌɪnflʊˈenzə 流行性感冒/.
+
+60
+00:02:50,811 --> 00:02:52,615
+Once an outbreak has been contained,
+
+61
+00:02:52,615 --> 00:02:55,385
+the virus does not exist 
+in the human population
+
+62
+00:02:55,385 --> 00:02:57,721
+until the next outbreak begins.
+
+63
+00:02:57,721 --> 00:02:59,810
+But while this is undoubtedly a good thing,
+
+64
+00:02:59,810 --> 00:03:02,821
+it also makes Ebola difficult to study.
+
+65
+00:03:02,821 --> 00:03:05,839
+Scientists believe fruit /fruːt/ bats 
+to be its natural carriers,
+
+66
+00:03:05,839 --> 00:03:09,795
+but just how it is transmitted to humans
+remains unknown.
+
+67
+00:03:09,795 --> 00:03:13,322
+Furthermore, many of the countries 
+where Ebola outbreaks occur
+
+68
+00:03:13,322 --> 00:03:16,566
+suffer from poor infrastructure and sanitation /ˌsænɪˈteɪʃən 环境卫生/,
+
+69
+00:03:16,566 --> 00:03:18,554
+which enables the disease to spread.
+
+70
+00:03:18,554 --> 00:03:20,157
+And the poverty /ˈpɒvəti 贫困/ of these regions,
+
+71
+00:03:20,157 --> 00:03:23,272
+combined with the relatively /ˈrelətɪvli 相当地/ low amount
+of overall /əʊvərɔːl 全部的/ cases
+
+72
+00:03:23,272 --> 00:03:28,706
+means there is little economic incentive /ɪnˈsentɪv 刺激/
+for drug companies to invest /ɪnˈvest 投资/ in research.
+
+73
+00:03:28,706 --> 00:03:31,625
+Though some experimental medicines
+have shown promise /ˈprɒmɪs/,
+
+74
+00:03:31,625 --> 00:03:34,291
+and governments are funding development
+of a vaccine /ˈvæksiːn 疫苗/,
+
+75
+00:03:34,291 --> 00:03:35,931
+as of 2014,
+
+76
+00:03:35,931 --> 00:03:40,074
+the only widespread and effective 
+solutions to an Ebola outbreak remain
+
+77
+00:03:40,074 --> 00:03:41,412
+isolation,
+
+78
+00:03:41,412 --> 00:03:42,506
+sanitation /ˌsænɪˈteɪʃən 环境卫生/,
+
+79
+00:03:42,506 --> 00:03:44,007
+and information.
+

@@ -1,0 +1,423 @@
+1
+00:00:06,505 --> 00:00:07,883
+How does anesthesia /ˌænɪsˈθiːzɪə 麻醉/ work
+If you've had surgery /ˈsɜːdʒərɪ/,
+
+2
+00:00:07,883 --> 00:00:11,116
+you might remember starting to count
+backwards from ten,
+
+3
+00:00:11,116 --> 00:00:12,368
+nine,
+
+4
+00:00:12,368 --> 00:00:13,461
+eight,
+
+5
+00:00:13,461 --> 00:00:18,853
+and then waking up with the surgery
+already over before you even got to five.
+
+6
+00:00:18,853 --> 00:00:21,968
+And it might seem like you were asleep,
+but you weren't.
+
+7
+00:00:21,968 --> 00:00:23,844
+You were under anesthesia /ˌænɪsˈθiːzɪə 麻醉/,
+
+8
+00:00:23,844 --> 00:00:25,636
+which is much more complicated.
+
+9
+00:00:25,636 --> 00:00:26,665
+You were unconscious /ʌnˈkɒnʃəs 无意识/,
+
+10
+00:00:26,665 --> 00:00:28,399
+but you also couldn't move,
+
+11
+00:00:28,399 --> 00:00:29,622
+form memories,
+
+12
+00:00:29,622 --> 00:00:32,225
+or, hopefully, feel pain.
+
+13
+00:00:32,225 --> 00:00:35,180
+Without being able to block all those
+processes at once,
+
+14
+00:00:35,180 --> 00:00:39,060
+many surgeries would be 
+way too traumatic /trɔːˈmætɪk 痛苦的；创伤的/ to perform.
+
+15
+00:00:39,060 --> 00:00:42,397
+Ancient medical texts from Egypt,
+Asia and the Middle East
+
+16
+00:00:42,397 --> 00:00:44,810
+all describe early anesthetics /ˌænɪsˈθɛtɪk 麻醉剂/
+
+17
+00:00:44,810 --> 00:00:46,927
+containing things like opium /ˈəʊpɪəm 鸦片/ poppy /pɔpi 罂粟/,
+
+18
+00:00:46,927 --> 00:00:48,309
+mandrake /ˈmændreɪk 欧茄参/ fruit,
+
+19
+00:00:48,309 --> 00:00:49,977
+and alcohol.
+
+20
+00:00:49,977 --> 00:00:52,188
+Today, anesthesiologists /ˌænɪsˌθiːzɪˈɒlədʒɪst/ often combine
+
+21
+00:00:52,188 --> 00:00:56,142
+regional, inhalational /ˌɪnhəˈleɪʃənəl 吸入的/
+and intravenous /ˌɪntrəˈviːnəs 静脉注射/ agents
+
+22
+00:00:56,142 --> 00:00:58,831
+to get the right balance for a surgery.
+
+23
+00:00:58,831 --> 00:01:03,111
+Regional /区域的/ anesthesia /ˌænɪsˈθiːzɪə/ blocks pain signals
+from a specific part of the body
+
+24
+00:01:03,111 --> 00:01:04,908
+from getting to the brain.
+
+25
+00:01:04,908 --> 00:01:10,139
+Pain and other messages travel through
+the nervous system as electrical impulses.
+
+26
+00:01:10,139 --> 00:01:14,388
+Regional anesthetics work by setting up
+an electrical barricade /ˈbærɪˌkeɪd 路障 障碍物/.
+
+27
+00:01:14,388 --> 00:01:18,271
+They bind to the proteins 
+in neurons' /ˈnjʊərəʊn 神经元/ cell membranes /ˈmɛmbreɪn 膜/
+
+28
+00:01:18,271 --> 00:01:20,906
+that let charged particles /ˈpɑːtɪkəl 微粒/ in and out,
+
+29
+00:01:20,906 --> 00:01:23,987
+and lock out positively /ˈpɒzɪtɪvlɪ 明确地/ charged particles.
+
+30
+00:01:23,987 --> 00:01:26,973
+One compound that does this is cocaine /koʊˈkeɪn  可卡因/,
+
+31
+00:01:26,973 --> 00:01:29,896
+whose painkilling effects 
+were discovered by accident
+
+32
+00:01:29,896 --> 00:01:33,999
+when an ophthalmology /ˌɒfθælˈmɒlədʒɪ 眼科学/ intern /ˈɪnˌtɜrn 实习生/
+got some on his tongue /tʌŋ/.
+
+33
+00:01:33,999 --> 00:01:37,021
+It's still occasionally used 
+as an anesthetic,
+
+34
+00:01:37,021 --> 00:01:39,430
+but many of the more common
+regional anesthetics
+
+35
+00:01:39,430 --> 00:01:43,351
+have a similar chemical structure
+and work the same way.
+
+36
+00:01:43,351 --> 00:01:46,180
+But for major surgeries where you need
+to be unconscious,
+
+37
+00:01:46,180 --> 00:01:49,483
+you'll want something that acts
+on the entire nervous system,
+
+38
+00:01:49,483 --> 00:01:51,316
+including the brain.
+
+39
+00:01:51,316 --> 00:01:54,070
+That's what inhalational /ˌɪnhəˈleɪʃənəl 吸入的/ anesthetics do.
+
+40
+00:01:54,070 --> 00:01:58,594
+In Western medicine, diethyl /daiˈeθil 二乙基/ ether /ˈiːθə 醚/
+was the first common one.
+
+41
+00:01:58,594 --> 00:02:01,384
+It was best known as a recreational drug
+
+42
+00:02:01,384 --> 00:02:05,464
+until doctors started to realize that
+people sometimes didn't notice
+
+43
+00:02:05,464 --> 00:02:08,298
+injuries they received 
+under the influence /ˈɪnflʊəns 影响/.
+
+44
+00:02:08,298 --> 00:02:12,444
+In the 1840s, they started sedating /sɪˈdeɪt 给…服镇静剂/
+patients with ether /ˈiːθə 醚/
+
+45
+00:02:12,444 --> 00:02:15,332
+during dental extractions /ɪkˈstrækʃən 抽出/ and surgeries.
+
+46
+00:02:15,332 --> 00:02:19,149
+Nitrous /ˈnaɪtrəs 氮的/ oxide /ˈɒksaɪd 氧化物/ became popular
+in the decades that followed
+
+47
+00:02:19,149 --> 00:02:20,826
+and is still used today.
+
+48
+00:02:20,826 --> 00:02:25,007
+although ether /ˈiːθə 醚/ derivatives /dɪˈrɪvətɪv 衍生物/, 
+like sevoflurane /sevəˈfluərein 七氟烷/, are more common.
+
+49
+00:02:25,007 --> 00:02:30,138
+Inhalational /ˌɪnhəˈleɪʃənəl 吸入的/ anesthesia is usually 
+supplemented /sʌplimənt 补遗/ with intravenous /ˌɪntrəˈviːnəs 静脉注射/ anesthesia,
+
+50
+00:02:30,138 --> 00:02:32,996
+which was developed in the 1870s.
+
+51
+00:02:32,996 --> 00:02:36,150
+Common intravenous /ˌɪntrəˈviːnəs 静脉注射/ agents include
+sedatives /ˈsɛdətɪv 镇静剂/, like propofol /丙酚/,
+
+52
+00:02:36,150 --> 00:02:37,884
+which induce unconsciousness,
+
+53
+00:02:37,884 --> 00:02:42,188
+and opioids /ˈəʊpɪˌɔɪd 类鸦片药物/, like fentanyl /ˈfentəˌnaɪl 芬太尼/, 
+which reduce pain.
+
+54
+00:02:42,188 --> 00:02:44,836
+These general anesthetics 
+also seem to work
+
+55
+00:02:44,836 --> 00:02:47,907
+by affecting electrical signals
+in the nervous system.
+
+56
+00:02:47,907 --> 00:02:51,754
+Normally, the brain's electrical signals
+are a chaotic chorus /ˈkɔːrəs 合唱/
+
+57
+00:02:51,754 --> 00:02:55,126
+as different parts of the brain
+communicate with each other.
+
+58
+00:02:55,126 --> 00:02:58,693
+That connectivity keeps you awake
+and aware.
+
+59
+00:02:58,693 --> 00:03:00,426
+But as someone becomes anesthetized,
+
+60
+00:03:00,426 --> 00:03:03,549
+those signals become calmer /kɑːm 镇定/
+and more organized,
+
+61
+00:03:03,549 --> 00:03:05,657
+suggesting that different 
+parts of the brain
+
+62
+00:03:05,657 --> 00:03:08,164
+aren't talking to each other anymore.
+
+63
+00:03:08,164 --> 00:03:12,800
+There's a lot we still don't know
+about exactly how this happens.
+
+64
+00:03:12,800 --> 00:03:18,771
+Several common anesthetics bind to
+the GABA-A receptor in the brain's neurons /ˈnjʊərəʊn/.
+
+65
+00:03:18,771 --> 00:03:20,598
+They hold the gateway open,
+
+66
+00:03:20,598 --> 00:03:25,030
+letting negatively charged particles /ˈpɑːtɪkəl 微粒/
+flow into the cell.
+
+67
+00:03:25,030 --> 00:03:28,241
+Negative charge builds up
+and acts like a log  jam /dʒæm 堵塞/ 木头塞子,
+
+68
+00:03:28,241 --> 00:03:31,842
+keeping the neuron from transmitting
+electrical signals.
+
+69
+00:03:31,842 --> 00:03:35,444
+The nervous system has lots
+of these gated channels,
+
+70
+00:03:35,444 --> 00:03:37,349
+controlling pathways for movement,
+
+71
+00:03:37,349 --> 00:03:38,419
+memory,
+
+72
+00:03:38,419 --> 00:03:39,779
+and consciousness.
+
+73
+00:03:39,779 --> 00:03:42,864
+Most anesthetics probably 
+act on more than one,
+
+74
+00:03:42,864 --> 00:03:45,276
+and they don't act on 
+just the nervous system.
+
+75
+00:03:45,276 --> 00:03:47,461
+Many anesthetics also affect the heart,
+
+76
+00:03:47,461 --> 00:03:48,386
+lungs,
+
+77
+00:03:48,386 --> 00:03:50,417
+and other vital organs.
+
+78
+00:03:50,417 --> 00:03:52,022
+Just like early anesthetics,
+
+79
+00:03:52,022 --> 00:03:55,586
+which included familiar poisons like
+hemlock /ˈhemˌlɒk 铁杉/ and aconite /ækənait 乌头/,
+
+80
+00:03:55,586 --> 00:03:58,155
+modern drugs can 
+have serious /ˈsɪərɪəs 严重的/ side effects.
+
+81
+00:03:58,155 --> 00:04:02,298
+So an anesthesiologist has to mix
+just the right balance of drugs
+
+82
+00:04:02,298 --> 00:04:04,997
+to create all the features of anesthesia,
+
+83
+00:04:04,997 --> 00:04:08,019
+while carefully monitoring
+the patient's vital signs,
+
+84
+00:04:08,019 --> 00:04:10,876
+and adjusting the drug mixture as needed.
+
+85
+00:04:10,876 --> 00:04:13,031
+Anesthesia is complicated,
+
+86
+00:04:13,031 --> 00:04:14,607
+but figuring out how to use it
+
+87
+00:04:14,607 --> 00:04:18,849
+allowed for the development 
+of new and better surgical techniques.
+
+88
+00:04:18,849 --> 00:04:23,460
+Surgeons could learn how to routinely /ruːˈtiːnlɪ 常规地/
+and safely perform C-sections,
+
+89
+00:04:23,460 --> 00:04:25,167
+reopen blocked arteries /ˈɑːtərɪ 动脉/,
+
+90
+00:04:25,167 --> 00:04:27,550
+replace damaged livers and kidneys /ˈkɪdnɪ 肾脏/,
+
+91
+00:04:27,550 --> 00:04:30,407
+and many other life-saving operations.
+
+92
+00:04:30,407 --> 00:04:33,970
+And each year, new anesthesia techniques
+are developed
+
+93
+00:04:33,970 --> 00:00:00,000
+that will ensure more and more patients
+survive the trauma /ˈtrɔːmə 痛苦/ of surgery.
+

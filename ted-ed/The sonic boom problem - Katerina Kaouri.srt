@@ -1,0 +1,424 @@
+1
+00:00:06,616 --> 00:00:10,513
+Humans have been fascinated /ˈfæsɪˌneɪt 使着迷/
+with speed for ages.
+
+2
+00:00:10,513 --> 00:00:14,746
+The history of human progress
+is one of ever-increasing velocity,
+
+3
+00:00:14,746 --> 00:00:18,611
+and one of the most important achievements
+in this historical race
+
+4
+00:00:18,611 --> 00:00:21,503
+was the breaking of the sound barrier /ˈbærɪə/.
+
+5
+00:00:21,503 --> 00:00:24,871
+Not long after the first
+successful airplane flights,
+
+6
+00:00:24,871 --> 00:00:29,983
+pilots were eager to push
+their planes to go faster and faster.
+
+7
+00:00:29,983 --> 00:00:32,384
+But as they did so, increased turbulence /ˈtɜːbjʊləns 动荡；狂暴；湍流/
+
+8
+00:00:32,384 --> 00:00:37,688
+and large forces on the plane
+prevented them from accelerating further.
+
+9
+00:00:37,688 --> 00:00:41,647
+Some tried to circumvent /ˌsɜːkəmˈvɛnt 避免；绕行/
+the problem through risky dives,
+
+10
+00:00:41,647 --> 00:00:44,085
+often with tragic results.
+
+11
+00:00:44,085 --> 00:00:47,550
+Finally, in 1947, design improvements,
+
+12
+00:00:47,550 --> 00:00:52,302
+such as a movable horizontal stabilizer /ˈsteɪbɪˌlaɪzə 水平尾翼/,
+the all-moving tail,
+
+13
+00:00:52,302 --> 00:00:55,521
+allowed an American military pilot
+named Chuck Yeager
+
+14
+00:00:55,521 --> 00:01:03,721
+to fly the Bell X-1 aircraft at 1127 km/h,
+
+15
+00:01:03,721 --> 00:01:06,924
+becoming the first person
+to break the sound barrier
+
+16
+00:01:06,924 --> 00:01:09,720
+and travel faster than the speed of sound.
+
+17
+00:01:09,720 --> 00:01:13,929
+The Bell X-1 was the first of many
+supersonic aircraft to follow,
+
+18
+00:01:13,929 --> 00:01:17,913
+with later designs reaching
+speeds over Mach 3.
+
+19
+00:01:17,913 --> 00:01:21,573
+Aircraft traveling at supersonic speed
+create a shock wave
+
+20
+00:01:21,573 --> 00:01:25,682
+with a thunder-like noise
+known as a sonic boom,
+
+21
+00:01:25,682 --> 00:01:29,179
+which can cause distress /dɪˈstrɛs 忧虑，悲伤 困苦；遇难/ to people
+and animals below
+
+22
+00:01:29,179 --> 00:01:31,070
+or even damage buildings.
+
+23
+00:01:31,070 --> 00:01:32,070
+For this reason,
+
+24
+00:01:32,111 --> 00:01:35,345
+scientists around the world
+have been looking at sonic booms,
+
+25
+00:01:35,345 --> 00:01:37,788
+trying to predict their path
+in the atmosphere,
+
+26
+00:01:37,788 --> 00:01:42,191
+where they will land,
+and how loud they will be.
+
+27
+00:01:42,191 --> 00:01:45,310
+To better understand
+how scientists study sonic booms,
+
+28
+00:01:45,310 --> 00:01:48,298
+let's start with some basics of sound.
+
+29
+00:01:48,298 --> 00:01:51,931
+Imagine throwing a small stone
+in a still /stɪl 寂静的/ pond.
+
+30
+00:01:51,931 --> 00:01:53,177
+What do you see?
+
+31
+00:01:53,177 --> 00:01:55,875
+The stone causes waves
+to travel in the water
+
+32
+00:01:55,875 --> 00:01:58,670
+at the same speed in every direction.
+
+33
+00:01:58,670 --> 00:02:02,887
+These circles that keep growing in radius /ˈreɪdɪəs 半径/
+are called wave fronts.
+
+34
+00:02:02,887 --> 00:02:05,904
+Similarly, even though we cannot see it,
+
+35
+00:02:05,904 --> 00:02:09,306
+a stationary /ˈsteɪʃənərɪ 固定的；静止的/ sound source,
+like a home stereo /ˈstɛrɪəʊ/,
+
+36
+00:02:09,306 --> 00:02:12,199
+creates sound waves traveling outward.
+
+37
+00:02:12,199 --> 00:02:14,330
+The speed of the waves depends on factors
+
+38
+00:02:14,330 --> 00:02:18,110
+like the altitude /ˈæltɪˌtjuːd 海拔/ and temperature /ˈtɛmprɪtʃə/
+of the air they move through.
+
+39
+00:02:18,110 --> 00:02:24,463
+At sea level, sound travels
+at about 1225 km/h.
+
+40
+00:02:24,463 --> 00:02:27,290
+But instead of circles
+on a two-dimensional /daɪˈmɛnʃənəl 空间的，维的/ surface,
+
+41
+00:02:27,290 --> 00:02:30,732
+the wave fronts
+are now concentric / kənˈsɛntrɪk 同轴的，同中心的/ spheres,
+
+42
+00:02:30,732 --> 00:02:35,901
+with the sound traveling along rays /reɪ 射线/
+perpendicular /ˌpɜːpənˈdɪkjʊlə 垂直的，直立的/ to these waves.
+
+43
+00:02:35,901 --> 00:02:40,076
+Now imagine a moving sound source,
+such as a train whistle.
+
+44
+00:02:40,076 --> 00:02:43,034
+As the source keeps moving
+in a certain direction,
+
+45
+00:02:43,034 --> 00:02:47,566
+the successive /səkˈsɛsɪv 连续的/ waves in front of it
+will become bunched closer together.
+
+46
+00:02:47,566 --> 00:02:52,636
+This greater wave frequency is the cause
+of the famous Doppler /dɔplə/ effect,
+
+47
+00:02:52,636 --> 00:02:55,729
+where approaching objects
+sound higher pitched /pɪtʃ 音高 投掷/.
+
+48
+00:02:55,729 --> 00:02:59,927
+But as long as the source is moving
+slower than the sound waves themselves,
+
+49
+00:02:59,927 --> 00:03:02,756
+they will remain nested /ˈnestɪd 嵌套的/ within each other.
+
+50
+00:03:02,756 --> 00:03:07,771
+It's when an object goes supersonic,
+moving faster than the sound it makes,
+
+51
+00:03:07,771 --> 00:03:10,597
+that the picture changes dramatically.
+
+52
+00:03:10,597 --> 00:03:13,200
+As it overtakes  /赶上/ sound waves
+it has emitted,
+
+53
+00:03:13,200 --> 00:03:15,702
+while generating new ones from
+its current position,
+
+54
+00:03:15,702 --> 00:03:19,820
+the waves are forced together,
+forming a Mach cone /kəʊn 圆锥体/.
+
+55
+00:03:19,820 --> 00:03:22,808
+No sound is heard
+as it approaches an observer
+
+56
+00:03:22,808 --> 00:03:27,888
+because the object is traveling faster
+than the sound it produces.
+
+57
+00:03:27,888 --> 00:03:33,051
+Only after the object has passed
+will the observer hear the sonic boom.
+
+58
+00:03:33,051 --> 00:03:37,007
+Where the Mach cone /kəʊn 圆锥体/ meets the ground,
+it forms a hyperbola /haɪˈpɜːbələ 双曲线/,
+
+59
+00:03:37,007 --> 00:03:41,306
+leaving a trail /treɪl 踪迹/ known as the boom carpet /ˈkɑːpɪt 地毯/
+as it travels forward.
+
+60
+00:03:41,306 --> 00:03:46,253
+This makes it possible to determine
+the area affected by a sonic boom.
+
+61
+00:03:46,253 --> 00:03:49,303
+What about figuring out how strong
+a sonic boom will be?
+
+62
+00:03:49,303 --> 00:03:52,869
+This involves solving the famous
+Navier-Stokes equations /ɪˈkweɪʒən 方程式/
+
+63
+00:03:52,869 --> 00:03:56,265
+to find the variation /vɛərɪˈeɪʃən 变化；变异，变种/
+of pressure in the air
+
+64
+00:03:56,265 --> 00:03:59,516
+due to the supersonic aircraft
+flying through it.
+
+65
+00:03:59,516 --> 00:04:03,853
+This results in the pressure signature
+known as the N-wave.
+
+66
+00:04:03,853 --> 00:04:05,483
+What does this shape mean?
+
+67
+00:04:05,483 --> 00:04:09,506
+Well, the sonic boom occurs
+when there is a sudden change in pressure,
+
+68
+00:04:09,506 --> 00:04:11,918
+and the N-wave involves two booms:
+
+69
+00:04:11,918 --> 00:04:15,497
+one for the initial pressure rise
+at the aircraft's nose,
+
+70
+00:04:15,497 --> 00:04:18,349
+and another for when the tail passes,
+
+71
+00:04:18,349 --> 00:04:21,017
+and the pressure suddenly
+returns to normal.
+
+72
+00:04:21,017 --> 00:04:23,130
+This causes a double boom,
+
+73
+00:04:23,130 --> 00:04:26,636
+but it is usually heard as a single boom
+by human ears.
+
+74
+00:04:26,636 --> 00:04:29,878
+In practice, computer models
+using these principles
+
+75
+00:04:29,878 --> 00:04:34,023
+can often predict the location
+and intensity /ɪnˈtɛnsɪtɪ 剧烈；紧张 强度/ of sonic booms
+
+76
+00:04:34,023 --> 00:04:37,626
+for given atmospheric conditions
+and flight trajectories /trəˈdʒɛktərɪ 弹道 轨道；轨迹/,
+
+77
+00:04:37,626 --> 00:04:40,738
+and there is ongoing research
+to mitigate /ˈmɪtɪˌɡeɪt 使减轻，缓和/ their effects.
+
+78
+00:04:40,738 --> 00:04:45,809
+In the meantime, supersonic flight
+over land remains prohibited.
+
+79
+00:04:45,809 --> 00:04:48,572
+So, are sonic booms a recent creation?
+
+80
+00:04:48,572 --> 00:04:50,088
+Not exactly.
+
+81
+00:04:50,088 --> 00:04:52,516
+While we try to find ways to silence them,
+
+82
+00:04:52,516 --> 00:04:56,045
+a few other animals have been
+using sonic booms to their advantage.
+
+83
+00:04:56,045 --> 00:05:00,954
+The gigantic /dʒaɪˈɡæntɪk 巨大的/ Diplodocus may have been
+capable of cracking /kræk（使）爆裂；打破/ its tail
+
+84
+00:05:00,998 --> 00:05:07,937
+faster than sound, at over 1200 km/h,
+possibly to deter /dɪˈtɜː 阻止，使不敢，使打消念头/ predators /ˈprɛdətə/.
+
+85
+00:05:07,937 --> 00:05:12,437
+Some types of shrimp can also create
+a similar shock wave underwater,
+
+86
+00:05:12,437 --> 00:05:16,163
+stunning /stʌn 晕眩，猛击/ or even killing pray /preɪ 猎物；掠食/
+at a distance
+
+87
+00:05:16,163 --> 00:05:19,733
+with just a snap /snæp   猛咬，折断/ of their oversized claw /klɔː  爪；螯，钳/.
+
+88
+00:05:19,733 --> 00:05:22,203
+So while we humans
+have made great progress
+
+89
+00:05:22,203 --> 00:05:24,853
+in our relentless /rɪˈlɛntlɪs 无情的 不间断的 / pursuit of speed,
+
+90
+00:05:24,853 --> 00:05:29,853
+it turns out that nature was there first.
+

@@ -1,0 +1,372 @@
+1
+00:00:07,908 --> 00:00:12,310
+All year long, researchers at hundreds
+of hospitals around the world
+
+2
+00:00:12,310 --> 00:00:15,019
+collect samples from flu patients
+
+3
+00:00:15,019 --> 00:00:19,179
+and send them to top virology /vaɪˈrɒlədʒɪ 病毒学/ experts
+with one goal:
+
+4
+00:00:19,179 --> 00:00:23,268
+to design the vaccine  /ˈvæksiːn 疫苗/
+for the next flu season.
+
+5
+00:00:23,268 --> 00:00:26,379
+But why do we need a new one every year?
+
+6
+00:00:26,379 --> 00:00:30,879
+Vaccines /ˈvæksiːn 疫苗/ for diseases like mumps /mʌmps 流行性腮腺炎/
+and rubella /ruːˈbɛlə 风疹/ offer a lifetime of protection
+
+7
+00:00:30,879 --> 00:00:33,628
+with two shots early in life.
+
+8
+00:00:33,628 --> 00:00:36,620
+What's so special about the flu?
+
+9
+00:00:36,620 --> 00:00:39,790
+Two factors make the flu a tough target.
+
+10
+00:00:39,790 --> 00:00:44,210
+First, there are more than 100 subtypes
+of the influenza /ˌɪnflʊˈenzə/ virus,
+
+11
+00:00:44,210 --> 00:00:48,309
+and the ones in circulation 
+change from season to season.
+
+12
+00:00:48,309 --> 00:00:52,533
+And second, the flu's genetic code
+allows it to mutate /mju:teit 变异/ more quickly
+
+13
+00:00:52,533 --> 00:00:54,820
+than many other viruses.
+
+14
+00:00:54,820 --> 00:01:00,910
+The flu spreads by turning a host's own 
+cells into viral production factories.
+
+15
+00:01:00,910 --> 00:01:05,681
+When the virus is engulfed /ɪnˈɡʌlf 吞噬/ by a host cell,
+it expels /ɪkˈspɛl 驱逐/ its genetic material,
+
+16
+00:01:05,681 --> 00:01:07,978
+which makes its way to the nucleus /ˈnjuːklɪəs 细胞核/.
+
+17
+00:01:07,978 --> 00:01:11,841
+There, cellular /ˈsɛljʊlə 细胞的/ machinery /məˈʃiːnərɪ 机械/ that normally
+copies the host's genes /dʒiːn/
+
+18
+00:01:11,841 --> 00:01:14,882
+starts replicating /ˈrɛplɪkɪt 复制(次品)  duplicate 镜像(地位等同)/ viral genes instead,
+
+19
+00:01:14,882 --> 00:01:18,317
+creating more and more copies
+of the virus.
+
+20
+00:01:18,317 --> 00:01:23,052
+New viruses are repackaged 
+and crammed /kræm 塞满/ into the cell until it bursts /bɜːst 爆裂/,
+
+21
+00:01:23,052 --> 00:01:29,422
+sending freshly /ˈfreʃlɪ 最近/ minted /mɪnt 全新的/ influenza viruses
+out to infect additional cells.
+
+22
+00:01:29,422 --> 00:01:31,892
+Most viruses follow this script.
+
+23
+00:01:31,892 --> 00:01:35,982
+The trick /trɪk 诡计/ with the flu is that its genetic
+material isn't DNA
+
+24
+00:01:35,982 --> 00:01:39,303
+but a similar compound called RNA.
+
+25
+00:01:39,303 --> 00:01:44,193
+And RNA viruses can mutate /mju:teit/ much faster.
+
+26
+00:01:44,193 --> 00:01:46,094
+When cells synthesize /ˈsɪnθɪˌsaɪz 合成/ DNA,
+
+27
+00:01:46,094 --> 00:01:50,354
+a built-in proofreader /ˈpruːfˌriːdə 校对员/ recognizes 
+and corrects mistakes,
+
+28
+00:01:50,354 --> 00:01:54,854
+but the RNA synthesis /ˈsɪnθɪˌsaɪz 合成/ mechanism /ˈmɛkəˌnɪzəm 结构/
+doesn't have this fail-safe.
+
+29
+00:01:54,854 --> 00:02:00,003
+If errors creep /kriːp 蔓延/ in, they stick around
+creating new variants /ˈvɛərɪənt 变种/ of the virus.
+
+30
+00:02:00,003 --> 00:02:01,393
+Why is this a problem?
+
+31
+00:02:01,393 --> 00:02:04,623
+Because vaccines /ˈvæksiːn/ depend on recognition.
+
+32
+00:02:04,623 --> 00:02:09,364
+The flu vaccine includes some of the same
+substances /ˈsʌbstəns 物质/, called antigens /ˈæntɪdʒən 抗原/,
+
+33
+00:02:09,364 --> 00:02:12,556
+found on the surface of the virus itself.
+
+34
+00:02:12,556 --> 00:02:15,654
+The body identifies those fragments
+as foreign
+
+35
+00:02:15,654 --> 00:02:19,063
+and responds by producing compounds
+called antibodies,
+
+36
+00:02:19,063 --> 00:02:22,094
+tailor/ˈteɪlə 裁缝/-made to match the antigens /ˈæntɪdʒən 抗原/.
+
+37
+00:02:22,094 --> 00:02:25,154
+When a vaccinated /ˈvæksɪˌneɪt 接种疫苗/ person
+encounters the actual /ˈæktʃʊəl 实际的/ virus,
+
+38
+00:02:25,154 --> 00:02:29,614
+the preprogrammed antibodies
+help the immune system identify the threat
+
+39
+00:02:29,614 --> 00:02:33,695
+and mobilize /ˈməʊbɪˌlaɪz 动员/ quickly 
+to prevent an infection.
+
+40
+00:02:33,695 --> 00:02:37,886
+Those antigens /ˈæntɪdʒən 抗原/ are different 
+for every strain /streɪn 品种/ of influenza.
+
+41
+00:02:37,886 --> 00:02:41,326
+If vaccination has prepared 
+the immune system for one strain /streɪn 品种/,
+
+42
+00:02:41,326 --> 00:02:44,577
+a different one may still 
+be able to sneak /sniːk 偷偷地做/ by.
+
+43
+00:02:44,577 --> 00:02:47,085
+Even within the same strain of flu,
+
+44
+00:02:47,085 --> 00:02:51,216
+those rapid genetic mutations
+can change the surface compounds enough
+
+45
+00:02:51,216 --> 00:02:55,366
+that the antibodies 
+may not recognize them.
+
+46
+00:02:55,366 --> 00:02:57,358
+To make things even more complicated,
+
+47
+00:02:57,358 --> 00:03:03,167
+sometimes two different strains combine
+to create an entirely new hybrid /ˈhaɪbrɪd 杂交/ virus.
+
+48
+00:03:03,167 --> 00:03:06,286
+All of this makes vaccinating for the flu
+
+49
+00:03:06,286 --> 00:03:10,067
+like trying to hit a moving 
+transforming target.
+
+50
+00:03:10,067 --> 00:03:12,887
+That's why scientists are constantly
+collecting data
+
+51
+00:03:12,887 --> 00:03:15,108
+about which strains are circulating
+
+52
+00:03:15,108 --> 00:03:17,819
+and checking to see how much those
+strains have mutated
+
+53
+00:03:17,819 --> 00:03:20,447
+from previous years' versions.
+
+54
+00:03:20,447 --> 00:03:24,398
+Twice annually, the World 
+Health Organization pulls together experts
+
+55
+00:03:24,398 --> 00:03:26,387
+to analyze all that data,
+
+56
+00:03:26,387 --> 00:03:29,558
+holding one meeting for each hemisphere.
+
+57
+00:03:29,558 --> 00:03:33,788
+The scientists determine which strains
+to include in that season's vaccine,
+
+58
+00:03:33,788 --> 00:03:38,090
+picking four for the quadrivalent /ˌkwɒdrɪˈveɪlənt 四价的/ vaccine
+in use today.
+
+59
+00:03:38,090 --> 00:03:40,398
+In spite of the flu's evasive /ɪˈveɪsɪv 逃避的/ maneuvers /məˈnuːvə 演习/,
+
+60
+00:03:40,398 --> 00:03:45,808
+in recent years, the group's predictions
+have been almost always correct.
+
+61
+00:03:45,808 --> 00:03:50,109
+Even when flu strains mutate further,
+the vaccine is often close enough
+
+62
+00:03:50,109 --> 00:03:53,309
+that a vaccinated person who catches
+the flu anyway
+
+63
+00:03:53,309 --> 00:03:58,139
+will have a milder /maɪld 温和的/ and shorter illness
+than they would otherwise.
+
+64
+00:03:58,139 --> 00:04:01,560
+Vaccination also helps protect
+other people in the community
+
+65
+00:04:01,560 --> 00:04:04,110
+who may not be medically eligible /ˈɛlɪdʒəbəl 有资格的/
+for the shot
+
+66
+00:04:04,110 --> 00:04:07,512
+by preventing those around them
+from carrying the virus.
+
+67
+00:04:07,512 --> 00:04:09,778
+This is called herd /hɜːd 群体 放牧/ immunity.
+
+68
+00:04:09,778 --> 00:04:12,050
+The flu shot can't give you the flu.
+
+69
+00:04:12,050 --> 00:04:16,199
+It contains an inactivated virus
+that isn't capable of making you sick.
+
+70
+00:04:16,199 --> 00:04:19,000
+You might feel tired 
+and achy /ˈeɪkɪ 疼痛的/ after getting it,
+
+71
+00:04:19,000 --> 00:04:20,710
+but that's not an infection.
+
+72
+00:04:20,710 --> 00:04:23,841
+It's your normal immune response
+to the vaccine.
+
+73
+00:04:23,841 --> 00:04:27,861
+Some parts of the world use, 
+instead of a shot, an inhaled /ɪnˈheɪl 吸入/ vaccine
+
+74
+00:04:27,861 --> 00:04:30,709
+that contains a weakened live virus.
+
+75
+00:04:30,709 --> 00:04:35,041
+This is also safe for 
+the vast majority of people.
+
+76
+00:04:35,041 --> 00:04:38,512
+Only those with impaired /ɪmˈpɛə 损害/ immune systems
+would be at risk,
+
+77
+00:04:38,512 --> 00:04:41,920
+but they're typically 
+not given live vaccines.
+
+78
+00:04:41,920 --> 00:04:45,951
+Meanwhile, scientists are working
+to develop a universal /ˌjuːnɪˈvɜːsəl/ flu vaccine
+
+79
+00:04:45,951 --> 00:04:49,502
+that would protect against any strain,
+even mutated ones.
+
+80
+00:04:49,502 --> 00:04:53,562
+But until then, the hunt 
+for next year's vaccine is on.
+

@@ -1,0 +1,394 @@
+1
+00:00:06,679 --> 00:00:10,689
+Deep inside Yale University's Beinecke
+Rare Book and Manuscript Library
+
+2
+00:00:10,689 --> 00:00:14,899
+lies the only copy of a 240-page tome /təʊm 册,卷/.
+
+3
+00:00:14,899 --> 00:00:17,523
+Recently carbon dated to around 1420,
+
+4
+00:00:17,523 --> 00:00:19,984
+its vellum /ˈvɛləm 牛皮纸的/ pages features 
+looping handwriting
+
+5
+00:00:19,984 --> 00:00:23,979
+and hand-drawn images seemingly
+stolen from a dream.
+
+6
+00:00:23,979 --> 00:00:25,733
+Real and imaginary plants,
+
+7
+00:00:25,733 --> 00:00:27,350
+floating castles,
+
+8
+00:00:27,350 --> 00:00:28,762
+bathing women,
+
+9
+00:00:28,762 --> 00:00:30,263
+astrology /əˈstrɒlədʒɪ 占星术/ diagrams /ˈdaɪəˌɡræm 图解，图表/,
+
+10
+00:00:30,263 --> 00:00:31,499
+zodiac /ˈzəʊdɪˌæk 黄道带/ rings,
+
+11
+00:00:31,499 --> 00:00:37,010
+and suns and moons with faces
+accompany the text.
+
+12
+00:00:37,010 --> 00:00:41,540
+This 24x16 centimeter book
+is called the Voynich manuscript /ˈmænjʊˌskrɪpt 手稿/,
+
+13
+00:00:41,540 --> 00:00:44,649
+and its one of history's biggest
+unsolved mysteries /mistəriz/.
+
+14
+00:00:44,649 --> 00:00:45,890
+The reason why?
+
+15
+00:00:45,890 --> 00:00:49,261
+No one can figure out what it says.
+
+16
+00:00:49,261 --> 00:00:51,190
+The name comes from Wilfrid Voynich,
+
+17
+00:00:51,190 --> 00:00:54,660
+a Polish bookseller who came across
+the document at a Jesuit college
+
+18
+00:00:54,660 --> 00:00:56,769
+in Italy in 1912.
+
+19
+00:00:56,769 --> 00:00:57,941
+He was puzzled.
+
+20
+00:00:57,941 --> 00:00:59,011
+Who wrote it?
+
+21
+00:00:59,011 --> 00:01:00,431
+Where was it made?
+
+22
+00:01:00,431 --> 00:01:04,120
+What do these bizarre /bɪˈzɑː 怪诞的/ words
+and vibrant /ˈvaɪbrənt 振动的；响亮的；/ drawings represent?
+
+23
+00:01:04,120 --> 00:01:06,691
+What secrets do its pages contain?
+
+24
+00:01:06,691 --> 00:01:09,671
+He purchased the manuscript from
+the cash-strapped /拮据/ priest /priːst 牧师/ at the college,
+
+25
+00:01:09,671 --> 00:01:11,572
+and eventually brought it to the U.S.,
+
+26
+00:01:11,572 --> 00:01:16,191
+where experts have continued to puzzle
+over it for more than a century.
+
+27
+00:01:16,191 --> 00:01:20,081
+Cryptologists /krɪpˈtɒlədʒɪst/ say the writing has all
+the characteristics /ˌkærɪktəˈrɪstɪks/ of a real language,
+
+28
+00:01:20,081 --> 00:01:22,651
+just one that no one's ever seen before.
+
+29
+00:01:22,651 --> 00:01:25,391
+What makes it seem real is that
+in actual languages,
+
+30
+00:01:25,391 --> 00:01:29,391
+letters and groups of letters appear
+with consistent frequencies,
+
+31
+00:01:29,391 --> 00:01:31,511
+and the language in the Voynich manuscript
+
+32
+00:01:31,511 --> 00:01:35,342
+has patterns you wouldn't find
+from a random letter generator.
+
+33
+00:01:35,342 --> 00:01:38,712
+Other than that, we know little more
+than what we can see.
+
+34
+00:01:38,712 --> 00:01:41,244
+The letters are varied 
+in style and height.
+
+35
+00:01:41,244 --> 00:01:44,943
+Some are borrowed from other scripts,
+but many are unique.
+
+36
+00:01:44,943 --> 00:01:48,262
+The taller letters have been named
+gallows /ˈɡæləʊz 绞架,绞刑/ characters.
+
+37
+00:01:48,262 --> 00:01:50,482
+The manuscript is 
+highly decorated throughout
+
+38
+00:01:50,482 --> 00:01:52,592
+with scroll-like embellishments /ɪmˈbelɪʃmənt 修饰，润色/.
+
+39
+00:01:52,592 --> 00:01:55,213
+It appears to be written by two
+or more hands,
+
+40
+00:01:55,213 --> 00:01:58,273
+with the painting done 
+by yet another party.
+
+41
+00:01:58,273 --> 00:02:03,693
+Over the years, three main theories
+about the manuscript's text have emerged.
+
+42
+00:02:03,693 --> 00:02:06,042
+The first is that it's written in cypher /=cipher/,
+
+43
+00:02:06,042 --> 00:02:10,263
+a secret code deliberately /di'libəritli 故意地；从容不迫地/ designed
+to hide secret meaning.
+
+44
+00:02:10,263 --> 00:02:12,575
+The second is that the document is a hoax /həʊks 骗局，恶作剧/
+
+45
+00:02:12,575 --> 00:02:16,213
+written in gibberish /ˈdʒɪbərɪʃ  令人费解的话；胡言乱语 / to make money
+off a gullible /ˈɡʌləbəl 轻信的，易受骗的/ buyer.
+
+46
+00:02:16,213 --> 00:02:19,133
+Some speculate /ˈspɛkjʊˌleɪt 猜测/ the author
+was a medieval /ˌmɛdɪˈiːvəl 中世纪的/ con /kɒn  欺诈的/ man.
+
+47
+00:02:19,133 --> 00:02:22,793
+Others, that it was Voynich himself.
+
+48
+00:02:22,793 --> 00:02:26,523
+The third theory is that the manuscript
+is written in an actual language,
+
+49
+00:02:26,523 --> 00:02:28,695
+but in an unknown script.
+
+50
+00:02:28,695 --> 00:02:31,674
+Perhaps medieval scholars were attempting
+to create an alphabet /ˈælfəˌbɛt 字母表/
+51
+00:02:31,674 --> 00:02:35,123
+for a language that was spoken
+but not yet written.
+
+52
+00:02:35,123 --> 00:02:38,844
+In that case, the Voynich manuscript
+might be like the rongorongo script
+
+53
+00:02:38,844 --> 00:02:40,684
+invented on Easter Island,
+
+54
+00:02:40,684 --> 00:02:45,005
+now unreadable after the culture
+that made it collapsed.
+
+55
+00:02:45,005 --> 00:02:47,364
+Though no one can read 
+the Voynich manuscript,
+
+56
+00:02:47,364 --> 00:02:50,145
+that hasn't stopped people from guessing
+what it might say.
+
+57
+00:02:50,145 --> 00:02:52,873
+Those who believe the manuscript
+was an attempt to create
+
+58
+00:02:52,873 --> 00:02:54,736
+a new form of written language
+
+59
+00:02:54,736 --> 00:02:56,995
+speculate that it might be an encyclopedia /ɪnˌsaɪkləˈpi:dɪə  百科全书/
+
+60
+00:02:56,995 --> 00:03:00,285
+containing the knowledge 
+of the culture that produced it.
+
+61
+00:03:00,285 --> 00:03:04,406
+Others believe it was written by 
+the 13th century philosopher /fɪˈlɒsəfə 哲学家/ Roger Bacon,
+
+62
+00:03:04,406 --> 00:03:08,127
+who attempted to understand 
+the universal laws of grammar,
+
+63
+00:03:08,127 --> 00:03:12,496
+or in the 16th century by the
+Elizabethan mystic John Dee,
+
+64
+00:03:12,496 --> 00:03:15,257
+who practiced alchemy /ˈælkəmɪ 炼金术；魔力 / and divination /ˌdɪvɪˈneɪʃən 占卜,卜卦,预测/.
+
+65
+00:03:15,257 --> 00:03:19,073
+More fringe /frɪndʒ 刘海；穗，边缘  次要的/ theories that the book was
+written by a coven /ˈkʌvən 女巫大聚会/ of Italian witches,
+
+66
+00:03:19,073 --> 00:03:22,296
+or even by Martians /ˈmɑːʃən 火星人/.
+
+67
+00:03:22,296 --> 00:03:24,116
+After 100 years of frustration /frʌˈstreɪʃən 挫败/,
+
+68
+00:03:24,116 --> 00:03:27,576
+scientists have recently shed /ʃɛd 使泄出；流血；/ a little
+light on the mystery.
+
+69
+00:03:27,576 --> 00:03:30,193
+The first breakthrough 
+was the carbon dating.
+
+70
+00:03:30,193 --> 00:03:33,666
+Also, contemporary /kənˈtɛmprərɪ 同一时代的/ historians /hɪˈstɔːrɪən/ have
+traced the provenance /ˈprɒvɪnəns 起源,出处/ of the manuscript
+
+71
+00:03:33,666 --> 00:03:37,546
+back through Rome and Prague /prɑːɡ 布拉格/
+to as early as 1612,
+
+72
+00:03:37,546 --> 00:03:41,287
+when it was perhaps passed
+from Holy Roman Emperor Rudolf II
+
+73
+00:03:41,287 --> 00:03:44,477
+to his physician /fɪˈzɪʃən 内科医生/, Jacobus Sinapius.
+
+74
+00:03:44,477 --> 00:03:46,801
+In addition to these 
+historical breakthroughs,
+
+75
+00:03:46,801 --> 00:03:50,527
+linguistic researchers recently proposed
+the provisional /prəˈvɪʒənəl 暂时的/ identification
+
+76
+00:03:50,527 --> 00:03:53,698
+of a few of the manuscript's words.
+
+77
+00:03:53,698 --> 00:03:56,938
+Could the letters beside these seven
+stars spell Tauran,
+
+78
+00:03:56,938 --> 00:03:58,523
+a name for Taurus,
+
+79
+00:03:58,523 --> 00:04:02,437
+a constellation /ˌkɒnstɪˈleɪʃən 星座 / that includes the seven
+stars called the Pleiades?
+
+80
+00:04:02,437 --> 00:04:06,807
+Could this word be Centaurun
+for the Centaurea plant in the picture?
+
+81
+00:04:06,807 --> 00:04:09,698
+Perhaps, but progress is slow.
+
+82
+00:04:09,698 --> 00:04:12,527
+If we can crack its code,
+what might we find?
+
+83
+00:04:12,527 --> 00:04:14,959
+The dream journal of 
+a 15th-century illustrator /ˈɪləˌstreɪtə/?
+
+84
+00:04:14,959 --> 00:04:16,692
+A bunch of nonsense /ˈnɒnsəns/?
+
+85
+00:04:16,692 --> 00:04:19,488
+Or the lost knowledge 
+of a forgotten culture?
+
+86
+00:04:19,488 --> 00:04:24,488
+What do you think it is?
+
